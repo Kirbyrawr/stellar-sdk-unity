@@ -1,6 +1,6 @@
 {
   "name": "com.kirbyrawr.stellar-dotnet-sdk",
-  "version": "5.1.1",
+  "version": "6.0.31",
   "displayName": "Stellar SDK",
   "description": "Stellar .Net SDK ported to work in Unity.\nThe code credits go to the original authors of 'stellar-dotnet-sdk'.",
   "unity": "2019.1",
@@ -29,7 +29,7 @@
     "com.kirbyrawr.nsec": "19.5.0",
     "com.kirbyrawr.newtonsoft.json": "12.0.0",
     "com.kirbyrawr.nett": "0.10.0",
-    "com.kirbyrawr.stellar-dotnet-sdk-xdr": "5.1.1",
+    "com.kirbyrawr.stellar-dotnet-sdk-xdr": "6.0.31",
     "com.kirbyrawr.launchdarkly.eventsource": "3.3.2"
   }
 }
